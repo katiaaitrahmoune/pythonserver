@@ -1,0 +1,7 @@
+flask
+python-dotenv
+faster-whisper
+google-generativeai
+gTTS
+pydub
+cloudinary
